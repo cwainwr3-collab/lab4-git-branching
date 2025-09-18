@@ -12,7 +12,9 @@ def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
 
 def right_path():
-    print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("You walk right and encounter a talking squirrel who challenges you to a friendly duel.")
+    print("You draw you sword and defeat the squirrel swiftly")
+    print("The forest begins to speak to you, telling you to take the squirrel's wallet")
 
 if __name__ == "__main__":
     intro()
