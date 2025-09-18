@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: The villain duels a talking squirrel, and takes his wallet after they win
 
 ## Final Checklist
 
