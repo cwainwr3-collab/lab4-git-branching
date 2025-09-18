@@ -1,9 +1,19 @@
 Branches in this repo (with details):
 
-- main
-  SHA: 32237b68604109221359de56c4a63492eed8c200
-  Commits: 3
+- hero-path
+  SHA: 0651eacf40cddeea4d8c3612b164b1cbe4b34b4e
+  Commits: 8
   Recent commits:
+    0651eac | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Date: 2025-09-18T13:49:03-04:00 | Merge branch 'main' of github.com:cwainwr3-collab/lab4-git-branching into hero-path
+    45af25e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:37:10Z | Auto-update branch-info.txt
+    0c84139 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Date: 2025-09-18T13:36:43-04:00 | Summarize hero path in README.md
+    b2b178a | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Date: 2025-09-18T13:33:57-04:00 | added a dragon swooping overhead to left path
+    bea512e | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Date: 2025-09-18T13:33:01-04:00 | added a dragon swooping overhead to left path
+- main
+  SHA: 45af25ebd8a1d422a1f53a8493e7bef2fb5ffa61
+  Commits: 4
+  Recent commits:
+    45af25e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T17:37:10Z | Auto-update branch-info.txt
     32237b6 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Date: 2025-09-18T13:29:57-04:00 | added a center path
     1494f27 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T16:57:26Z | Auto-update branch-info.txt
     a3e6b18 | Author: Christopher Wainwright <cwainwr3@emich.edu> | Committer: GitHub <noreply@github.com> | Date: 2025-09-18T12:57:14-04:00 | Initial commit
