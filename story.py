@@ -15,6 +15,7 @@ def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a friendly duel.")
     print("You draw you sword and defeat the squirrel swiftly")
     print("The forest begins to speak to you, telling you to take the squirrel's wallet")
+    print("You listen to it's commands, and relieve the squirrel of $4.50")
 
 if __name__ == "__main__":
     intro()
